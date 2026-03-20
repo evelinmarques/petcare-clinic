@@ -109,12 +109,15 @@ npm run preview
 - **SEO Ready**: Estrutura otimizada para mecanismos de busca
 - **Performance**: Lazy loading e otimização de assets
 
+## 🚀 Deploy
+<h3>
+    <a href="https://petcare-evelinmarques.vercel.app/">Clique aqui</a>
+<h3>
+
 ## 👨‍💻 Autor
 <p>
   Feito com 💜
   por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a>
 </p>
-
----
 
 **Nota**: Este é um projeto de demonstração. As informações de contato e imagens são ilustrativas.

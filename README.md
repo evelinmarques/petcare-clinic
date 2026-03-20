@@ -4,16 +4,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1-38bdf8?style=for-the-badge&logo=tailwind-css)
 
-Um projeto moderno e responsivo de landing page para clínica veterinária, desenvolvido com as melhores práticas de desenvolvimento web.
+## Resultado Visual Esperado : 
+<img width="1850" height="923" alt="Captura de tela de 2026-03-20 11-07-01" src="https://github.com/user-attachments/assets/5597a424-2bc0-4fdd-9dd5-0b9d09a0921c" />
+<img width="1850" height="923" alt="Captura de tela de 2026-03-20 11-07-18" src="https://github.com/user-attachments/assets/1fc2d704-f5a4-44e6-9bfe-11528d5b1214" />
+
+
 
 ## 🚀 Tecnologias Utilizadas
 
-- **React 18.3.1** - Biblioteca JavaScript para construção de interfaces
-- **TypeScript** - Superset JavaScript que adiciona tipagem estática
-- **Tailwind CSS 4.1** - Framework CSS utility-first
-- **Motion (Framer Motion)** - Biblioteca para animações fluidas
-- **Lucide React** - Ícones modernos e customizáveis
-- **Vite** - Build tool extremamente rápido
+- **React 18.3.1** 
+- **TypeScript**
+- **Tailwind CSS 4.1**
+- **Motion (Framer Motion)** 
+- **Lucide React** 
+- **Vite** 
 
 ## ✨ Funcionalidades
 
@@ -105,13 +109,11 @@ npm run preview
 - **SEO Ready**: Estrutura otimizada para mecanismos de busca
 - **Performance**: Lazy loading e otimização de assets
 
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins de portfólio e está disponível sob a licença MIT.
-
 ## 👨‍💻 Autor
-
-Desenvolvido com ❤️ para demonstrar habilidades em React, TypeScript e desenvolvimento front-end moderno.
+<p>
+  Feito com 💜
+  por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a>
+</p>
 
 ---
 

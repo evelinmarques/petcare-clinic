@@ -15,7 +15,6 @@
 - **React 18.3.1** 
 - **TypeScript**
 - **Tailwind CSS 4.1**
-- **Motion (Framer Motion)** 
 - **Lucide React** 
 - **Vite** 
 
